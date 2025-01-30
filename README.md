@@ -1,11 +1,5 @@
 # Handwritten-Character-Recognition
 
-Here's a README file for the Handwritten Character Recognition project, detailing its purpose, usage, and setup instructions:
-
----
-
-# Handwritten Character Recognition
-
 This project implements a Convolutional Neural Network (CNN) using TensorFlow and Keras to recognize handwritten English alphabets (A-Z). The model is trained on a dataset containing images of handwritten characters and aims to accurately predict the corresponding letter from input images.
 
 ## Table of Contents
